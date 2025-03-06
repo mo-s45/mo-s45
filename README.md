@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mo-s45 (a.k.a Mighty Mo)
+- 👋 Hi, I’m @mo-s45
 - 👀 I’m interested in Electronics
 - 🌱 I’m currently learning Computer Engineering
 
